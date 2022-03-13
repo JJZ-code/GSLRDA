@@ -11,11 +11,8 @@ By
 
 
 
-## Installation
 
-```bash
-python setup.py install
-```
+
 
 
 ## Requirements
@@ -26,7 +23,11 @@ python setup.py install
 * scikit-learn 1.0
 * scipy 1.5
 
+## Run the demo
 
+```bash
+python mian.py
+```
 
 ## Data
 Known ncRNA-drug resistance association pairs come from the NoncoRNA and ncDR databases.
