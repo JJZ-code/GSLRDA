@@ -5,7 +5,7 @@ This is a tensorflow implementation with a model for ncRNA-drug resistance assoc
 
 “Graph Neural Network with Self-supervised Learning for ncRNA-Drug Resistance Association Prediction”
 
-By 
+
 
 
 
